@@ -56,6 +56,9 @@ I am a Co-Founder of WOCH Studios and a Full Stack Developer. I currently work a
 
 ## Articles I write
 <!-- WORDPRESS:START-->
+- [Persistent URI permissions in Android](https://www.wochstudios.com/persistent-uri-permissions-in-android/)
+- [Searching for MongoDB object Ids in Li3](https://www.wochstudios.com/searching-for-mongodb-object-ids-in-li3/)
+- [Soundboard Tutorial](https://www.wochstudios.com/soundboard-tutorial/)
 <!-- WORDPRESS:END-->
 
 
