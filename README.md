@@ -1,5 +1,5 @@
 # Hi, I'm Dave
-I am a Co-Founder of WOCH Studios and a Full Stack Developer. I currently work at Bottomline Technologies as a manger of cloud and services. I like building things. 
+I am a Co-Founder of WOCH Studios and a Full Stack Developer. I currently work at Bottomline Technologies as a manger of cloud and services. I like to building things. 
 ## What I work with
 ### Datastores
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
