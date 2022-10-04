@@ -50,6 +50,7 @@ I am a Co-Founder of WOCH Studios and a Full Stack Developer. I currently work a
 * [todoist_cli](https://github.com/DMcP89/todoist_cli)
 
 ## Projects I've contributed to
+* [yahoo-oauth](https://github.com/josuebrunel/yahoo-oauth)
 * [yahoo_fantasy_api](https://github.com/spilchen/yahoo_fantasy_api)
 * [nhl-twitter-bot](https://github.com/mattdonders/nhl-twitter-bot)
 * [awesome-storj](https://github.com/storj/awesome-storj)
