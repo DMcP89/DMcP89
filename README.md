@@ -1,5 +1,9 @@
 # Hi, I'm Dave
 I am a Co-Founder of WOCH Studios and a Full Stack Developer. I currently work at Siren Solutions as a Senior Implementation Consultant. I like to building things. 
+
+Push to sponsor page
+
+Move this to the bottom and hide it in an accordian
 ## What I work with
 ### Datastores
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -9,6 +13,8 @@ I am a Co-Founder of WOCH Studios and a Full Stack Developer. I currently work a
 
 
 ### Languages
+GO
+Typescript
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -24,10 +30,14 @@ I am a Co-Founder of WOCH Studios and a Full Stack Developer. I currently work a
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Cloud
+Render
+Azure
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### OS
+Windows
+Pop Os
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
@@ -38,6 +48,7 @@ I am a Co-Founder of WOCH Studios and a Full Stack Developer. I currently work a
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Tools
+EchoVault
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
@@ -45,11 +56,13 @@ I am a Co-Founder of WOCH Studios and a Full Stack Developer. I currently work a
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
-## My Open Source Projects
+## Projects I maintain
 * [harambot](https://github.com/DMcP89/harambot)
 * [todoist_cli](https://github.com/DMcP89/todoist_cli)
+Tinycare TUI
 
-## Projects I've contributed to
+## Projects I contribute to
+EchoVault
 * [yahoo-oauth](https://github.com/josuebrunel/yahoo-oauth)
 * [yahoo_fantasy_api](https://github.com/spilchen/yahoo_fantasy_api)
 * [nhl-twitter-bot](https://github.com/mattdonders/nhl-twitter-bot)
@@ -62,5 +75,3 @@ I am a Co-Founder of WOCH Studios and a Full Stack Developer. I currently work a
 - [Soundboard Tutorial](https://www.wochstudios.com/soundboard-tutorial/)
 <!-- WORDPRESS:END-->
 
-
-[![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=DMcP89)](https://github.com/anuraghazra/github-readme-stats)
