@@ -1,12 +1,10 @@
 # Hi, I'm Dave
 I am a Co-Founder of WOCH Studios and a Full Stack Developer. I currently work at Siren Solutions as a Senior Implementation Consultant. I like to building things. 
 
-Push to sponsor page
-
 If you'd like to help support my open source work please consider sponsoring me on GitHub
+
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/DMcP89)
 
-Move this to the bottom and hide it in an accordian
 ## What I work with
 ### Datastores
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
